@@ -1,5 +1,30 @@
 # Renewable Energy Project
 
+## Objective/Goal
+The primary objective of this project is to create a robust pipeline for analyzing and forecasting energy metrics to support informed decision-making in the renewable energy domain. This includes leveraging advanced algorithms and models to:
+
+- Analyze energy demand, generation, and interchange trends.
+- Develop accurate time series forecasting models to predict future energy usage.
+- Visualize key metrics and trends through interactive dashboards for actionable insights.
+
+---
+
+## Technologies Used
+This project utilizes the following technologies and tools:
+
+- **Programming Languages**: Python 3.10+
+- **Libraries**:
+  - `ipywidgets`, `itertools`, `matplotlib`, `numpy`, `pandas`, `pickle`
+  - `sklearn`, `sqlalchemy`, `statsmodels`, `tensorflow`, `warnings`, `xgboost`
+- **Databases**:
+  - MySQL on Google Cloud Platform (GCP)
+- **Visualization Tools**:
+  - Tableau for interactive dashboards
+- **Other Tools**:
+  - MySQL Workbench for SQL view creation and database management
+
+---
+
 ## Description
 This package provides a comprehensive pipeline for analyzing and forecasting energy metrics using advanced algorithms and models. The key components include:
 
